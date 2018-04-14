@@ -12,6 +12,10 @@ namespace WebApplication1
 {
     public class Program
     { 
+        /// <summary>
+        /// dfdffd
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
             //ssd
             //233232
